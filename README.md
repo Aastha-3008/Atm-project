@@ -8,5 +8,5 @@ To run the project
 4.Or in Windows open command prompt and go to project Directory
 5. run command : javac ATM.java
 6. After completion your folder will contain 3 .class files
-7. In command prompt run command: java ATM
+7. In command prompt run command: java Atm
 8. Project will start running
